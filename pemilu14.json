@@ -11,6 +11,10 @@
             {
               "vote": "42182",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "56354",
+              "name": "NON VOTERS"
             }
           ],
           "name": "ACEH SELATAN"
@@ -24,6 +28,10 @@
             {
               "vote": "40413",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "27682",
+              "name": "NON VOTERS"
             }
           ],
           "name": "ACEH TENGGARA"
@@ -37,6 +45,10 @@
             {
               "vote": "63548",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "143382",
+              "name": "NON VOTERS"
             }
           ],
           "name": "ACEH TIMUR"
@@ -50,6 +62,10 @@
             {
               "vote": "57882",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "26030",
+              "name": "NON VOTERS"
             }
           ],
           "name": "ACEH TENGAH"
@@ -63,6 +79,10 @@
             {
               "vote": "40062",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "36160",
+              "name": "NON VOTERS"
             }
           ],
           "name": "ACEH BARAT"
@@ -76,6 +96,10 @@
             {
               "vote": "72502",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "82679",
+              "name": "NON VOTERS"
             }
           ],
           "name": "ACEH BESAR"
@@ -89,6 +113,10 @@
             {
               "vote": "93308",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "123102",
+              "name": "NON VOTERS"
             }
           ],
           "name": "PIDIE"
@@ -102,6 +130,10 @@
             {
               "vote": "82486",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "185321",
+              "name": "NON VOTERS"
             }
           ],
           "name": "ACEH UTARA"
@@ -115,6 +147,10 @@
             {
               "vote": "29538",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "11619",
+              "name": "NON VOTERS"
             }
           ],
           "name": "SIMEULUE"
@@ -128,6 +164,10 @@
             {
               "vote": "19230",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "28000",
+              "name": "NON VOTERS"
             }
           ],
           "name": "ACEH SINGKIL"
@@ -141,6 +181,10 @@
             {
               "vote": "60087",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "139635",
+              "name": "NON VOTERS"
             }
           ],
           "name": "BIREUEN"
@@ -154,6 +198,10 @@
             {
               "vote": "26534",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "41609",
+              "name": "NON VOTERS"
             }
           ],
           "name": "ACEH BARAT DAYA"
@@ -167,6 +215,10 @@
             {
               "vote": "25640",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "15484",
+              "name": "NON VOTERS"
             }
           ],
           "name": "GAYO LUES"
@@ -180,6 +232,10 @@
             {
               "vote": "17945",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "17291",
+              "name": "NON VOTERS"
             }
           ],
           "name": "ACEH JAYA"
@@ -193,6 +249,10 @@
             {
               "vote": "38848",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "36565",
+              "name": "NON VOTERS"
             }
           ],
           "name": "NAGAN RAYA"
@@ -206,6 +266,10 @@
             {
               "vote": "41143",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "72157",
+              "name": "NON VOTERS"
             }
           ],
           "name": "ACEH TAMIANG"
@@ -219,6 +283,10 @@
             {
               "vote": "41171",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "20258",
+              "name": "NON VOTERS"
             }
           ],
           "name": "BENER MERIAH"
@@ -232,6 +300,10 @@
             {
               "vote": "30338",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "47813",
+              "name": "NON VOTERS"
             }
           ],
           "name": "PIDIE JAYA"
@@ -245,6 +317,10 @@
             {
               "vote": "36003",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "74949",
+              "name": "NON VOTERS"
             }
           ],
           "name": "KOTA BANDA ACEH"
@@ -258,6 +334,10 @@
             {
               "vote": "5537",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "10489",
+              "name": "NON VOTERS"
             }
           ],
           "name": "KOTA SABANG"
@@ -271,6 +351,10 @@
             {
               "vote": "19296",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "67973",
+              "name": "NON VOTERS"
             }
           ],
           "name": "KOTA LHOKSEUMAWE"
@@ -284,6 +368,10 @@
             {
               "vote": "18340",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "48057",
+              "name": "NON VOTERS"
             }
           ],
           "name": "KOTA LANGSA"
@@ -297,6 +385,10 @@
             {
               "vote": "11276",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "15511",
+              "name": "NON VOTERS"
             }
           ],
           "name": "KOTA SUBULUSSALAM"
@@ -315,6 +407,10 @@
             {
               "vote": "73580",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "50623",
+              "name": "NON VOTERS"
             }
           ],
           "name": "LABUHANBATU SELATAN"
@@ -328,6 +424,10 @@
             {
               "vote": "94247",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "69087",
+              "name": "NON VOTERS"
             }
           ],
           "name": "LABUHANBATU UTARA"
@@ -341,6 +441,10 @@
             {
               "vote": "45305",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "33898",
+              "name": "NON VOTERS"
             }
           ],
           "name": "NIAS UTARA"
@@ -354,6 +458,10 @@
             {
               "vote": "32202",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "16234",
+              "name": "NON VOTERS"
             }
           ],
           "name": "NIAS BARAT"
@@ -367,6 +475,10 @@
             {
               "vote": "48491",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "28378",
+              "name": "NON VOTERS"
             }
           ],
           "name": "KOTA GUNUNGSITOLI"
@@ -380,6 +492,10 @@
             {
               "vote": "95001",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "87867",
+              "name": "NON VOTERS"
             }
           ],
           "name": "TAPANULI TENGAH"
@@ -393,6 +509,10 @@
             {
               "vote": "120744",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "77689",
+              "name": "NON VOTERS"
             }
           ],
           "name": "TAPANULI UTARA"
@@ -406,6 +526,10 @@
             {
               "vote": "50633",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "64791",
+              "name": "NON VOTERS"
             }
           ],
           "name": "TAPANULI SELATAN"
@@ -419,6 +543,10 @@
             {
               "vote": "55301",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "28019",
+              "name": "NON VOTERS"
             }
           ],
           "name": "NIAS"
@@ -432,6 +560,10 @@
             {
               "vote": "228622",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "237913",
+              "name": "NON VOTERS"
             }
           ],
           "name": "LANGKAT"
@@ -445,6 +577,10 @@
             {
               "vote": "143746",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "106238",
+              "name": "NON VOTERS"
             }
           ],
           "name": "KARO"
@@ -458,6 +594,10 @@
             {
               "vote": "373760",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "547647",
+              "name": "NON VOTERS"
             }
           ],
           "name": "DELI SERDANG"
@@ -471,6 +611,10 @@
             {
               "vote": "276389",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "216745",
+              "name": "NON VOTERS"
             }
           ],
           "name": "SIMALUNGUN"
@@ -484,6 +628,10 @@
             {
               "vote": "177331",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "157274",
+              "name": "NON VOTERS"
             }
           ],
           "name": "ASAHAN"
@@ -497,6 +645,10 @@
             {
               "vote": "91901",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "102538",
+              "name": "NON VOTERS"
             }
           ],
           "name": "LABUHANBATU"
@@ -510,6 +662,10 @@
             {
               "vote": "109732",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "72637",
+              "name": "NON VOTERS"
             }
           ],
           "name": "DAIRI"
@@ -523,6 +679,10 @@
             {
               "vote": "79525",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "41043",
+              "name": "NON VOTERS"
             }
           ],
           "name": "TOBA SAMOSIR"
@@ -536,6 +696,10 @@
             {
               "vote": "47046",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "110218",
+              "name": "NON VOTERS"
             }
           ],
           "name": "MANDAILING NATAL"
@@ -549,6 +713,10 @@
             {
               "vote": "171401",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "59666",
+              "name": "NON VOTERS"
             }
           ],
           "name": "NIAS SELATAN"
@@ -562,6 +730,10 @@
             {
               "vote": "12075",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "11376",
+              "name": "NON VOTERS"
             }
           ],
           "name": "PAKPAK BHARAT"
@@ -575,6 +747,10 @@
             {
               "vote": "77704",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "37212",
+              "name": "NON VOTERS"
             }
           ],
           "name": "HUMBANG HASUNDUTAN"
@@ -588,6 +764,10 @@
             {
               "vote": "57030",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "30181",
+              "name": "NON VOTERS"
             }
           ],
           "name": "SAMOSIR"
@@ -601,6 +781,10 @@
             {
               "vote": "149761",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "152287",
+              "name": "NON VOTERS"
             }
           ],
           "name": "SERDANG BEDAGAI"
@@ -614,6 +798,10 @@
             {
               "vote": "93483",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "118024",
+              "name": "NON VOTERS"
             }
           ],
           "name": "BATU BARA"
@@ -627,6 +815,10 @@
             {
               "vote": "486395",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "730191",
+              "name": "NON VOTERS"
             }
           ],
           "name": "KOTA MEDAN"
@@ -640,6 +832,10 @@
             {
               "vote": "83287",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "69686",
+              "name": "NON VOTERS"
             }
           ],
           "name": "KOTA PEMATANGSIANTAR"
@@ -653,6 +849,10 @@
             {
               "vote": "22573",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "24840",
+              "name": "NON VOTERS"
             }
           ],
           "name": "KOTA SIBOLGA"
@@ -666,6 +866,10 @@
             {
               "vote": "28611",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "48439",
+              "name": "NON VOTERS"
             }
           ],
           "name": "KOTA TANJUNG BALAI"
@@ -679,6 +883,10 @@
             {
               "vote": "45463",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "59224",
+              "name": "NON VOTERS"
             }
           ],
           "name": "KOTA BINJAI"
@@ -692,6 +900,10 @@
             {
               "vote": "35498",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "45981",
+              "name": "NON VOTERS"
             }
           ],
           "name": "KOTA TEBING TINGGI"
@@ -705,6 +917,10 @@
             {
               "vote": "23423",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "49444",
+              "name": "NON VOTERS"
             }
           ],
           "name": "KOTA PADANG SIDIMPUAN"
@@ -718,6 +934,10 @@
             {
               "vote": "35786",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "37719",
+              "name": "NON VOTERS"
             }
           ],
           "name": "PADANG LAWAS UTARA"
@@ -731,6 +951,10 @@
             {
               "vote": "28789",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "53421",
+              "name": "NON VOTERS"
             }
           ],
           "name": "PADANG LAWAS"
@@ -749,6 +973,10 @@
             {
               "vote": "58374",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "116540",
+              "name": "NON VOTERS"
             }
           ],
           "name": "PESISIR SELATAN"
@@ -762,6 +990,10 @@
             {
               "vote": "23831",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "102049",
+              "name": "NON VOTERS"
             }
           ],
           "name": "SOLOK"
@@ -775,6 +1007,10 @@
             {
               "vote": "24296",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "48936",
+              "name": "NON VOTERS"
             }
           ],
           "name": "SIJUNJUNG"
@@ -788,6 +1024,10 @@
             {
               "vote": "40187",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "103157",
+              "name": "NON VOTERS"
             }
           ],
           "name": "TANAH DATAR"
@@ -801,6 +1041,10 @@
             {
               "vote": "37355",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "113328",
+              "name": "NON VOTERS"
             }
           ],
           "name": "PADANG PARIAMAN"
@@ -814,6 +1058,10 @@
             {
               "vote": "38392",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "117233",
+              "name": "NON VOTERS"
             }
           ],
           "name": "AGAM"
@@ -827,6 +1075,10 @@
             {
               "vote": "34699",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "92848",
+              "name": "NON VOTERS"
             }
           ],
           "name": "LIMA PULUH KOTA"
@@ -840,6 +1092,10 @@
             {
               "vote": "26644",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "72953",
+              "name": "NON VOTERS"
             }
           ],
           "name": "PASAMAN"
@@ -853,6 +1109,10 @@
             {
               "vote": "31440",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "16380",
+              "name": "NON VOTERS"
             }
           ],
           "name": "KEPULAUAN MENTAWAI"
@@ -866,6 +1126,10 @@
             {
               "vote": "36737",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "34954",
+              "name": "NON VOTERS"
             }
           ],
           "name": "DHARMASRAYA"
@@ -879,6 +1143,10 @@
             {
               "vote": "17103",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "36223",
+              "name": "NON VOTERS"
             }
           ],
           "name": "SOLOK SELATAN"
@@ -892,6 +1160,10 @@
             {
               "vote": "42560",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "85537",
+              "name": "NON VOTERS"
             }
           ],
           "name": "PASAMAN BARAT"
@@ -905,6 +1177,10 @@
             {
               "vote": "83698",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "221322",
+              "name": "NON VOTERS"
             }
           ],
           "name": "KOTA PADANG"
@@ -918,6 +1194,10 @@
             {
               "vote": "5070",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "15779",
+              "name": "NON VOTERS"
             }
           ],
           "name": "KOTA SOLOK"
@@ -931,6 +1211,10 @@
             {
               "vote": "6666",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "14601",
+              "name": "NON VOTERS"
             }
           ],
           "name": "KOTA SAWAHLUNTO"
@@ -944,6 +1228,10 @@
             {
               "vote": "4402",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "10723",
+              "name": "NON VOTERS"
             }
           ],
           "name": "KOTA PADANG PANJANG"
@@ -957,6 +1245,10 @@
             {
               "vote": "9434",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "23788",
+              "name": "NON VOTERS"
             }
           ],
           "name": "KOTA BUKITTINGGI"
@@ -970,6 +1262,10 @@
             {
               "vote": "11750",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "28019",
+              "name": "NON VOTERS"
             }
           ],
           "name": "KOTA PAYAKUMBUH"
@@ -983,6 +1279,10 @@
             {
               "vote": "6670",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "20368",
+              "name": "NON VOTERS"
             }
           ],
           "name": "KOTA PARIAMAN"
@@ -1001,6 +1301,10 @@
             {
               "vote": "55289",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "55564",
+              "name": "NON VOTERS"
             }
           ],
           "name": "KEPULAUAN MERANTI"
@@ -1014,6 +1318,10 @@
             {
               "vote": "138129",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "182031",
+              "name": "NON VOTERS"
             }
           ],
           "name": "KAMPAR"
@@ -1027,6 +1335,10 @@
             {
               "vote": "97460",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "113984",
+              "name": "NON VOTERS"
             }
           ],
           "name": "INDRAGIRI HULU"
@@ -1040,6 +1352,10 @@
             {
               "vote": "140869",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "122743",
+              "name": "NON VOTERS"
             }
           ],
           "name": "BENGKALIS"
@@ -1053,6 +1369,10 @@
             {
               "vote": "168634",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "228020",
+              "name": "NON VOTERS"
             }
           ],
           "name": "INDRAGIRI HILIR"
@@ -1066,6 +1386,10 @@
             {
               "vote": "85496",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "88856",
+              "name": "NON VOTERS"
             }
           ],
           "name": "PELALAWAN"
@@ -1079,6 +1403,10 @@
             {
               "vote": "126012",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "105122",
+              "name": "NON VOTERS"
             }
           ],
           "name": "ROKAN HULU"
@@ -1092,6 +1420,10 @@
             {
               "vote": "169637",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "133170",
+              "name": "NON VOTERS"
             }
           ],
           "name": "ROKAN HILIR"
@@ -1105,6 +1437,10 @@
             {
               "vote": "90369",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "94206",
+              "name": "NON VOTERS"
             }
           ],
           "name": "SIAK"
@@ -1118,6 +1454,10 @@
             {
               "vote": "76259",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "79203",
+              "name": "NON VOTERS"
             }
           ],
           "name": "KUANTAN SINGINGI"
@@ -1131,6 +1471,10 @@
             {
               "vote": "129179",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "236440",
+              "name": "NON VOTERS"
             }
           ],
           "name": "KOTA PEKANBARU"
@@ -1144,6 +1488,10 @@
             {
               "vote": "65484",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "76812",
+              "name": "NON VOTERS"
             }
           ],
           "name": "KOTA DUMAI"
@@ -1162,6 +1510,10 @@
             {
               "vote": "10555",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "24676",
+              "name": "NON VOTERS"
             }
           ],
           "name": "KOTA SUNGAI PENUH"
@@ -1175,6 +1527,10 @@
             {
               "vote": "38680",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "60620",
+              "name": "NON VOTERS"
             }
           ],
           "name": "KERINCI"
@@ -1188,6 +1544,10 @@
             {
               "vote": "95407",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "67978",
+              "name": "NON VOTERS"
             }
           ],
           "name": "MERANGIN"
@@ -1201,6 +1561,10 @@
             {
               "vote": "76443",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "52841",
+              "name": "NON VOTERS"
             }
           ],
           "name": "SAROLANGUN"
@@ -1214,6 +1578,10 @@
             {
               "vote": "72999",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "56691",
+              "name": "NON VOTERS"
             }
           ],
           "name": "BATANGHARI"
@@ -1227,6 +1595,10 @@
             {
               "vote": "114132",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "80762",
+              "name": "NON VOTERS"
             }
           ],
           "name": "MUARO JAMBI"
@@ -1240,6 +1612,10 @@
             {
               "vote": "79090",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "62816",
+              "name": "NON VOTERS"
             }
           ],
           "name": "TANJUNG JABUNG BARAT"
@@ -1253,6 +1629,10 @@
             {
               "vote": "71431",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "49271",
+              "name": "NON VOTERS"
             }
           ],
           "name": "TANJUNG JABUNG TIMUR"
@@ -1266,6 +1646,10 @@
             {
               "vote": "87530",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "61806",
+              "name": "NON VOTERS"
             }
           ],
           "name": "BUNGO"
@@ -1279,6 +1663,10 @@
             {
               "vote": "108551",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "64773",
+              "name": "NON VOTERS"
             }
           ],
           "name": "TEBO"
@@ -1292,6 +1680,10 @@
             {
               "vote": "142969",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "129590",
+              "name": "NON VOTERS"
             }
           ],
           "name": "KOTA JAMBI"
@@ -1310,6 +1702,10 @@
             {
               "vote": "64472",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "78778",
+              "name": "NON VOTERS"
             }
           ],
           "name": "OGAN KOMERING ULU"
@@ -1323,6 +1719,10 @@
             {
               "vote": "191662",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "133825",
+              "name": "NON VOTERS"
             }
           ],
           "name": "OGAN KOMERING ILIR"
@@ -1336,6 +1736,10 @@
             {
               "vote": "217125",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "142418",
+              "name": "NON VOTERS"
             }
           ],
           "name": "MUARA ENIM"
@@ -1349,6 +1753,10 @@
             {
               "vote": "83865",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "85016",
+              "name": "NON VOTERS"
             }
           ],
           "name": "LAHAT"
@@ -1362,6 +1770,10 @@
             {
               "vote": "193367",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "109728",
+              "name": "NON VOTERS"
             }
           ],
           "name": "MUSI RAWAS"
@@ -1375,6 +1787,10 @@
             {
               "vote": "176549",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "155698",
+              "name": "NON VOTERS"
             }
           ],
           "name": "MUSI BANYUASIN"
@@ -1388,6 +1804,10 @@
             {
               "vote": "224109",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "172404",
+              "name": "NON VOTERS"
             }
           ],
           "name": "BANYUASIN"
@@ -1401,6 +1821,10 @@
             {
               "vote": "152303",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "98705",
+              "name": "NON VOTERS"
             }
           ],
           "name": "OGAN KOMERING ULU TIMUR"
@@ -1414,6 +1838,10 @@
             {
               "vote": "77139",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "73102",
+              "name": "NON VOTERS"
             }
           ],
           "name": "OGAN KOMERING ULU SELATAN"
@@ -1427,6 +1855,10 @@
             {
               "vote": "96506",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "97061",
+              "name": "NON VOTERS"
             }
           ],
           "name": "OGAN ILIR"
@@ -1440,6 +1872,10 @@
             {
               "vote": "48436",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "72719",
+              "name": "NON VOTERS"
             }
           ],
           "name": "EMPAT LAWANG"
@@ -1453,6 +1889,10 @@
             {
               "vote": "372168",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "361373",
+              "name": "NON VOTERS"
             }
           ],
           "name": "KOTA PALEMBANG"
@@ -1466,6 +1906,10 @@
             {
               "vote": "33579",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "32935",
+              "name": "NON VOTERS"
             }
           ],
           "name": "KOTA PAGAR ALAM"
@@ -1479,6 +1923,10 @@
             {
               "vote": "49873",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "49016",
+              "name": "NON VOTERS"
             }
           ],
           "name": "KOTA LUBUKLINGGAU"
@@ -1492,6 +1940,10 @@
             {
               "vote": "45896",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "43035",
+              "name": "NON VOTERS"
             }
           ],
           "name": "KOTA PRABUMULIH"
@@ -1510,6 +1962,10 @@
             {
               "vote": "33531",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "17381",
+              "name": "NON VOTERS"
             }
           ],
           "name": "BENGKULU TENGAH"
@@ -1523,6 +1979,10 @@
             {
               "vote": "44964",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "38762",
+              "name": "NON VOTERS"
             }
           ],
           "name": "BENGKULU SELATAN"
@@ -1536,6 +1996,10 @@
             {
               "vote": "59063",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "64467",
+              "name": "NON VOTERS"
             }
           ],
           "name": "REJANG LEBONG"
@@ -1549,6 +2013,10 @@
             {
               "vote": "95334",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "50920",
+              "name": "NON VOTERS"
             }
           ],
           "name": "BENGKULU UTARA"
@@ -1562,6 +2030,10 @@
             {
               "vote": "36456",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "25576",
+              "name": "NON VOTERS"
             }
           ],
           "name": "KAUR"
@@ -1575,6 +2047,10 @@
             {
               "vote": "59531",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "39153",
+              "name": "NON VOTERS"
             }
           ],
           "name": "SELUMA"
@@ -1588,6 +2064,10 @@
             {
               "vote": "49631",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "35076",
+              "name": "NON VOTERS"
             }
           ],
           "name": "MUKOMUKO"
@@ -1601,6 +2081,10 @@
             {
               "vote": "29369",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "27966",
+              "name": "NON VOTERS"
             }
           ],
           "name": "LEBONG"
@@ -1614,6 +2098,10 @@
             {
               "vote": "32655",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "34921",
+              "name": "NON VOTERS"
             }
           ],
           "name": "KEPAHIANG"
@@ -1627,6 +2115,10 @@
             {
               "vote": "83135",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "88003",
+              "name": "NON VOTERS"
             }
           ],
           "name": "KOTA BENGKULU"
@@ -1645,6 +2137,10 @@
             {
               "vote": "109675",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "97204",
+              "name": "NON VOTERS"
             }
           ],
           "name": "PRINGSEWU"
@@ -1658,6 +2154,10 @@
             {
               "vote": "62581",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "39055",
+              "name": "NON VOTERS"
             }
           ],
           "name": "MESUJI"
@@ -1671,6 +2171,10 @@
             {
               "vote": "83631",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "49966",
+              "name": "NON VOTERS"
             }
           ],
           "name": "TULANG BAWANG BARAT"
@@ -1684,6 +2188,10 @@
             {
               "vote": "287821",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "189976",
+              "name": "NON VOTERS"
             }
           ],
           "name": "LAMPUNG SELATAN"
@@ -1697,6 +2205,10 @@
             {
               "vote": "366977",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "231577",
+              "name": "NON VOTERS"
             }
           ],
           "name": "LAMPUNG TENGAH"
@@ -1710,6 +2222,10 @@
             {
               "vote": "138884",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "113607",
+              "name": "NON VOTERS"
             }
           ],
           "name": "LAMPUNG UTARA"
@@ -1723,6 +2239,10 @@
             {
               "vote": "140261",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "83825",
+              "name": "NON VOTERS"
             }
           ],
           "name": "LAMPUNG BARAT"
@@ -1736,6 +2256,10 @@
             {
               "vote": "112553",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "78456",
+              "name": "NON VOTERS"
             }
           ],
           "name": "TULANG BAWANG"
@@ -1749,6 +2273,10 @@
             {
               "vote": "145675",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "150189",
+              "name": "NON VOTERS"
             }
           ],
           "name": "TANGGAMUS"
@@ -1762,6 +2290,10 @@
             {
               "vote": "311267",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "235183",
+              "name": "NON VOTERS"
             }
           ],
           "name": "LAMPUNG TIMUR"
@@ -1775,6 +2307,10 @@
             {
               "vote": "134930",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "93320",
+              "name": "NON VOTERS"
             }
           ],
           "name": "WAY KANAN"
@@ -1788,6 +2324,10 @@
             {
               "vote": "240477",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "169728",
+              "name": "NON VOTERS"
             }
           ],
           "name": "KOTA BANDAR LAMPUNG"
@@ -1801,6 +2341,10 @@
             {
               "vote": "41842",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "27241",
+              "name": "NON VOTERS"
             }
           ],
           "name": "KOTA METRO"
@@ -1814,6 +2358,10 @@
             {
               "vote": "123315",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "83071",
+              "name": "NON VOTERS"
             }
           ],
           "name": "PESAWARAN"
@@ -1832,6 +2380,10 @@
             {
               "vote": "85481",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "78039",
+              "name": "NON VOTERS"
             }
           ],
           "name": "BANGKA"
@@ -1845,6 +2397,10 @@
             {
               "vote": "60700",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "28096",
+              "name": "NON VOTERS"
             }
           ],
           "name": "BELITUNG"
@@ -1858,6 +2414,10 @@
             {
               "vote": "56235",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "53068",
+              "name": "NON VOTERS"
             }
           ],
           "name": "BANGKA SELATAN"
@@ -1871,6 +2431,10 @@
             {
               "vote": "52707",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "45616",
+              "name": "NON VOTERS"
             }
           ],
           "name": "BANGKA TENGAH"
@@ -1884,6 +2448,10 @@
             {
               "vote": "64716",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "36285",
+              "name": "NON VOTERS"
             }
           ],
           "name": "BANGKA BARAT"
@@ -1897,6 +2465,10 @@
             {
               "vote": "42817",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "19544",
+              "name": "NON VOTERS"
             }
           ],
           "name": "BELITUNG TIMUR"
@@ -1910,6 +2482,10 @@
             {
               "vote": "49703",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "51037",
+              "name": "NON VOTERS"
             }
           ],
           "name": "KOTA PANGKALPINANG"
@@ -1928,6 +2504,10 @@
             {
               "vote": "55021",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "53260",
+              "name": "NON VOTERS"
             }
           ],
           "name": "KOTA TANJUNGPINANG"
@@ -1941,6 +2521,10 @@
             {
               "vote": "15145",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "9806",
+              "name": "NON VOTERS"
             }
           ],
           "name": "KEPULAUAN ANAMBAS"
@@ -1954,6 +2538,10 @@
             {
               "vote": "43663",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "35461",
+              "name": "NON VOTERS"
             }
           ],
           "name": "BINTAN"
@@ -1967,6 +2555,10 @@
             {
               "vote": "65509",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "66817",
+              "name": "NON VOTERS"
             }
           ],
           "name": "KARIMUN"
@@ -1980,6 +2572,10 @@
             {
               "vote": "22372",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "19422",
+              "name": "NON VOTERS"
             }
           ],
           "name": "NATUNA"
@@ -1993,6 +2589,10 @@
             {
               "vote": "32943",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "20643",
+              "name": "NON VOTERS"
             }
           ],
           "name": "LINGGA"
@@ -2006,6 +2606,10 @@
             {
               "vote": "257166",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "293491",
+              "name": "NON VOTERS"
             }
           ],
           "name": "KOTA BATAM"
@@ -2024,6 +2628,10 @@
             {
               "vote": "8089",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "4599",
+              "name": "NON VOTERS"
             }
           ],
           "name": "KEPULAUAN SERIBU"
@@ -2037,6 +2645,10 @@
             {
               "vote": "308059",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "207527",
+              "name": "NON VOTERS"
             }
           ],
           "name": "JAKARTA PUSAT"
@@ -2050,6 +2662,10 @@
             {
               "vote": "516654",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "275978",
+              "name": "NON VOTERS"
             }
           ],
           "name": "JAKARTA UTARA"
@@ -2063,6 +2679,10 @@
             {
               "vote": "742103",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "434739",
+              "name": "NON VOTERS"
             }
           ],
           "name": "JAKARTA BARAT"
@@ -2076,6 +2696,10 @@
             {
               "vote": "568358",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "386774",
+              "name": "NON VOTERS"
             }
           ],
           "name": "JAKARTA SELATAN"
@@ -2089,6 +2713,10 @@
             {
               "vote": "716631",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "372900",
+              "name": "NON VOTERS"
             }
           ],
           "name": "JAKARTA TIMUR"
@@ -2107,6 +2735,10 @@
             {
               "vote": "852888",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "829902",
+              "name": "NON VOTERS"
             }
           ],
           "name": "BOGOR"
@@ -2120,6 +2752,10 @@
             {
               "vote": "392927",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "569021",
+              "name": "NON VOTERS"
             }
           ],
           "name": "SUKABUMI"
@@ -2133,6 +2769,10 @@
             {
               "vote": "442822",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "595652",
+              "name": "NON VOTERS"
             }
           ],
           "name": "CIANJUR"
@@ -2146,6 +2786,10 @@
             {
               "vote": "655044",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "620183",
+              "name": "NON VOTERS"
             }
           ],
           "name": "BANDUNG"
@@ -2159,6 +2803,10 @@
             {
               "vote": "369199",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "569501",
+              "name": "NON VOTERS"
             }
           ],
           "name": "GARUT"
@@ -2172,6 +2820,10 @@
             {
               "vote": "268568",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "438151",
+              "name": "NON VOTERS"
             }
           ],
           "name": "TASIKMALAYA"
@@ -2185,6 +2837,10 @@
             {
               "vote": "418505",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "331776",
+              "name": "NON VOTERS"
             }
           ],
           "name": "CIAMIS"
@@ -2198,6 +2854,10 @@
             {
               "vote": "250156",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "286032",
+              "name": "NON VOTERS"
             }
           ],
           "name": "KUNINGAN"
@@ -2211,6 +2871,10 @@
             {
               "vote": "653687",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "670961",
+              "name": "NON VOTERS"
             }
           ],
           "name": "CIREBON"
@@ -2224,6 +2888,10 @@
             {
               "vote": "338875",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "240691",
+              "name": "NON VOTERS"
             }
           ],
           "name": "MAJALENGKA"
@@ -2237,6 +2905,10 @@
             {
               "vote": "252193",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "184074",
+              "name": "NON VOTERS"
             }
           ],
           "name": "SUMEDANG"
@@ -2250,6 +2922,10 @@
             {
               "vote": "540832",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "511224",
+              "name": "NON VOTERS"
             }
           ],
           "name": "INDRAMAYU"
@@ -2263,6 +2939,10 @@
             {
               "vote": "447818",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "298586",
+              "name": "NON VOTERS"
             }
           ],
           "name": "SUBANG"
@@ -2276,6 +2956,10 @@
             {
               "vote": "138257",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "161710",
+              "name": "NON VOTERS"
             }
           ],
           "name": "PURWAKARTA"
@@ -2289,6 +2973,10 @@
             {
               "vote": "473557",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "509955",
+              "name": "NON VOTERS"
             }
           ],
           "name": "KARAWANG"
@@ -2302,6 +2990,10 @@
             {
               "vote": "555723",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "610123",
+              "name": "NON VOTERS"
             }
           ],
           "name": "BEKASI"
@@ -2315,6 +3007,10 @@
             {
               "vote": "332085",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "295707",
+              "name": "NON VOTERS"
             }
           ],
           "name": "BANDUNG BARAT"
@@ -2328,6 +3024,10 @@
             {
               "vote": "210578",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "129312",
+              "name": "NON VOTERS"
             }
           ],
           "name": "KOTA BOGOR"
@@ -2341,6 +3041,10 @@
             {
               "vote": "53070",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "49751",
+              "name": "NON VOTERS"
             }
           ],
           "name": "KOTA SUKABUMI"
@@ -2354,6 +3058,10 @@
             {
               "vote": "571022",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "345848",
+              "name": "NON VOTERS"
             }
           ],
           "name": "KOTA BANDUNG"
@@ -2367,6 +3075,10 @@
             {
               "vote": "91079",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "64336",
+              "name": "NON VOTERS"
             }
           ],
           "name": "KOTA CIREBON"
@@ -2380,6 +3092,10 @@
             {
               "vote": "555525",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "525264",
+              "name": "NON VOTERS"
             }
           ],
           "name": "KOTA BEKASI"
@@ -2393,6 +3109,10 @@
             {
               "vote": "412695",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "297504",
+              "name": "NON VOTERS"
             }
           ],
           "name": "KOTA DEPOK"
@@ -2406,6 +3126,10 @@
             {
               "vote": "104239",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "85185",
+              "name": "NON VOTERS"
             }
           ],
           "name": "KOTA CIMAHI"
@@ -2419,6 +3143,10 @@
             {
               "vote": "99307",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "92457",
+              "name": "NON VOTERS"
             }
           ],
           "name": "KOTA TASIKMALAYA"
@@ -2432,6 +3160,10 @@
             {
               "vote": "49664",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "34499",
+              "name": "NON VOTERS"
             }
           ],
           "name": "KOTA BANJAR"
@@ -2450,6 +3182,10 @@
             {
               "vote": "585252",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "517412",
+              "name": "NON VOTERS"
             }
           ],
           "name": "CILACAP"
@@ -2463,6 +3199,10 @@
             {
               "vote": "613226",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "359178",
+              "name": "NON VOTERS"
             }
           ],
           "name": "BANYUMAS"
@@ -2476,6 +3216,10 @@
             {
               "vote": "320704",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "223200",
+              "name": "NON VOTERS"
             }
           ],
           "name": "PURBALINGGA"
@@ -2489,6 +3233,10 @@
             {
               "vote": "322398",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "239637",
+              "name": "NON VOTERS"
             }
           ],
           "name": "BANJARNEGARA"
@@ -2502,6 +3250,10 @@
             {
               "vote": "422713",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "356434",
+              "name": "NON VOTERS"
             }
           ],
           "name": "KEBUMEN"
@@ -2515,6 +3267,10 @@
             {
               "vote": "262246",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "201363",
+              "name": "NON VOTERS"
             }
           ],
           "name": "PURWOREJO"
@@ -2528,6 +3284,10 @@
             {
               "vote": "296386",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "190775",
+              "name": "NON VOTERS"
             }
           ],
           "name": "WONOSOBO"
@@ -2541,6 +3301,10 @@
             {
               "vote": "407458",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "206773",
+              "name": "NON VOTERS"
             }
           ],
           "name": "MAGELANG"
@@ -2554,6 +3318,10 @@
             {
               "vote": "457914",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "198881",
+              "name": "NON VOTERS"
             }
           ],
           "name": "BOYOLALI"
@@ -2567,6 +3335,10 @@
             {
               "vote": "562631",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "257603",
+              "name": "NON VOTERS"
             }
           ],
           "name": "KLATEN"
@@ -2580,6 +3352,10 @@
             {
               "vote": "411498",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "154579",
+              "name": "NON VOTERS"
             }
           ],
           "name": "SUKOHARJO"
@@ -2593,6 +3369,10 @@
             {
               "vote": "462735",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "304088",
+              "name": "NON VOTERS"
             }
           ],
           "name": "WONOGIRI"
@@ -2606,6 +3386,10 @@
             {
               "vote": "387156",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "155924",
+              "name": "NON VOTERS"
             }
           ],
           "name": "KARANGANYAR"
@@ -2619,6 +3403,10 @@
             {
               "vote": "414425",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "225626",
+              "name": "NON VOTERS"
             }
           ],
           "name": "SRAGEN"
@@ -2632,6 +3420,10 @@
             {
               "vote": "536562",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "373468",
+              "name": "NON VOTERS"
             }
           ],
           "name": "GROBOGAN"
@@ -2645,6 +3437,10 @@
             {
               "vote": "335176",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "201888",
+              "name": "NON VOTERS"
             }
           ],
           "name": "BLORA"
@@ -2658,6 +3454,10 @@
             {
               "vote": "245393",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "107299",
+              "name": "NON VOTERS"
             }
           ],
           "name": "REMBANG"
@@ -2671,6 +3471,10 @@
             {
               "vote": "540504",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "293432",
+              "name": "NON VOTERS"
             }
           ],
           "name": "PATI"
@@ -2684,6 +3488,10 @@
             {
               "vote": "260384",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "148750",
+              "name": "NON VOTERS"
             }
           ],
           "name": "KUDUS"
@@ -2697,6 +3505,10 @@
             {
               "vote": "436410",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "224423",
+              "name": "NON VOTERS"
             }
           ],
           "name": "JEPARA"
@@ -2710,6 +3522,10 @@
             {
               "vote": "369726",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "244812",
+              "name": "NON VOTERS"
             }
           ],
           "name": "DEMAK"
@@ -2723,6 +3539,10 @@
             {
               "vote": "359428",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "167236",
+              "name": "NON VOTERS"
             }
           ],
           "name": "SEMARANG"
@@ -2736,6 +3556,10 @@
             {
               "vote": "309118",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "103128",
+              "name": "NON VOTERS"
             }
           ],
           "name": "TEMANGGUNG"
@@ -2749,6 +3573,10 @@
             {
               "vote": "329481",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "197942",
+              "name": "NON VOTERS"
             }
           ],
           "name": "KENDAL"
@@ -2762,6 +3590,10 @@
             {
               "vote": "278706",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "162530",
+              "name": "NON VOTERS"
             }
           ],
           "name": "BATANG"
@@ -2775,6 +3607,10 @@
             {
               "vote": "328245",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "235565",
+              "name": "NON VOTERS"
             }
           ],
           "name": "PEKALONGAN"
@@ -2788,6 +3624,10 @@
             {
               "vote": "453468",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "426822",
+              "name": "NON VOTERS"
             }
           ],
           "name": "PEMALANG"
@@ -2801,6 +3641,10 @@
             {
               "vote": "451294",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "449165",
+              "name": "NON VOTERS"
             }
           ],
           "name": "TEGAL"
@@ -2814,6 +3658,10 @@
             {
               "vote": "601106",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "574016",
+              "name": "NON VOTERS"
             }
           ],
           "name": "BREBES"
@@ -2827,6 +3675,10 @@
             {
               "vote": "42056",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "19137",
+              "name": "NON VOTERS"
             }
           ],
           "name": "KOTA MAGELANG"
@@ -2840,6 +3692,10 @@
             {
               "vote": "284199",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "72875",
+              "name": "NON VOTERS"
             }
           ],
           "name": "KOTA SURAKARTA"
@@ -2853,6 +3709,10 @@
             {
               "vote": "68664",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "22614",
+              "name": "NON VOTERS"
             }
           ],
           "name": "KOTA SALATIGA"
@@ -2866,6 +3726,10 @@
             {
               "vote": "624289",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "205039",
+              "name": "NON VOTERS"
             }
           ],
           "name": "KOTA SEMARANG"
@@ -2879,6 +3743,10 @@
             {
               "vote": "99814",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "52912",
+              "name": "NON VOTERS"
             }
           ],
           "name": "KOTA PEKALONGAN"
@@ -2892,6 +3760,10 @@
             {
               "vote": "78775",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "65427",
+              "name": "NON VOTERS"
             }
           ],
           "name": "KOTA TEGAL"
@@ -2910,6 +3782,10 @@
             {
               "vote": "136881",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "71871",
+              "name": "NON VOTERS"
             }
           ],
           "name": "KULON PROGO"
@@ -2923,6 +3799,10 @@
             {
               "vote": "313383",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "134041",
+              "name": "NON VOTERS"
             }
           ],
           "name": "BANTUL"
@@ -2936,6 +3816,10 @@
             {
               "vote": "280110",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "140678",
+              "name": "NON VOTERS"
             }
           ],
           "name": "GUNUNGKIDUL"
@@ -2949,6 +3833,10 @@
             {
               "vote": "355975",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "130155",
+              "name": "NON VOTERS"
             }
           ],
           "name": "SLEMAN"
@@ -2962,6 +3850,10 @@
             {
               "vote": "147900",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "63939",
+              "name": "NON VOTERS"
             }
           ],
           "name": "KOTA YOGYAKARTA"
@@ -2980,6 +3872,10 @@
             {
               "vote": "112332",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "143585",
+              "name": "NON VOTERS"
             }
           ],
           "name": "PACITAN"
@@ -2993,6 +3889,10 @@
             {
               "vote": "280689",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "240842",
+              "name": "NON VOTERS"
             }
           ],
           "name": "PONOROGO"
@@ -3006,6 +3906,10 @@
             {
               "vote": "267772",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "156891",
+              "name": "NON VOTERS"
             }
           ],
           "name": "TRENGGALEK"
@@ -3019,6 +3923,10 @@
             {
               "vote": "401482",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "237562",
+              "name": "NON VOTERS"
             }
           ],
           "name": "TULUNGAGUNG"
@@ -3032,6 +3940,10 @@
             {
               "vote": "488724",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "237330",
+              "name": "NON VOTERS"
             }
           ],
           "name": "BLITAR"
@@ -3045,6 +3957,10 @@
             {
               "vote": "619456",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "268370",
+              "name": "NON VOTERS"
             }
           ],
           "name": "KEDIRI"
@@ -3058,6 +3974,10 @@
             {
               "vote": "865641",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "574105",
+              "name": "NON VOTERS"
             }
           ],
           "name": "MALANG"
@@ -3071,6 +3991,10 @@
             {
               "vote": "319840",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "260182",
+              "name": "NON VOTERS"
             }
           ],
           "name": "LUMAJANG"
@@ -3084,6 +4008,10 @@
             {
               "vote": "694751",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "559711",
+              "name": "NON VOTERS"
             }
           ],
           "name": "JEMBER"
@@ -3097,6 +4025,10 @@
             {
               "vote": "539652",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "360789",
+              "name": "NON VOTERS"
             }
           ],
           "name": "BANYUWANGI"
@@ -3110,6 +4042,10 @@
             {
               "vote": "175467",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "152482",
+              "name": "NON VOTERS"
             }
           ],
           "name": "BONDOWOSO"
@@ -3123,6 +4059,10 @@
             {
               "vote": "153018",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "149754",
+              "name": "NON VOTERS"
             }
           ],
           "name": "SITUBONDO"
@@ -3136,6 +4076,10 @@
             {
               "vote": "289694",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "287714",
+              "name": "NON VOTERS"
             }
           ],
           "name": "PROBOLINGGO"
@@ -3149,6 +4093,10 @@
             {
               "vote": "344930",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "361831",
+              "name": "NON VOTERS"
             }
           ],
           "name": "PASURUAN"
@@ -3162,6 +4110,10 @@
             {
               "vote": "550726",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "375025",
+              "name": "NON VOTERS"
             }
           ],
           "name": "SIDOARJO"
@@ -3175,6 +4127,10 @@
             {
               "vote": "370265",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "183717",
+              "name": "NON VOTERS"
             }
           ],
           "name": "MOJOKERTO"
@@ -3188,6 +4144,10 @@
             {
               "vote": "411112",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "277543",
+              "name": "NON VOTERS"
             }
           ],
           "name": "JOMBANG"
@@ -3201,6 +4161,10 @@
             {
               "vote": "376899",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "265514",
+              "name": "NON VOTERS"
             }
           ],
           "name": "NGANJUK"
@@ -3214,6 +4178,10 @@
             {
               "vote": "240002",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "164781",
+              "name": "NON VOTERS"
             }
           ],
           "name": "MADIUN"
@@ -3227,6 +4195,10 @@
             {
               "vote": "190962",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "157004",
+              "name": "NON VOTERS"
             }
           ],
           "name": "MAGETAN"
@@ -3240,6 +4212,10 @@
             {
               "vote": "303169",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "221770",
+              "name": "NON VOTERS"
             }
           ],
           "name": "NGAWI"
@@ -3253,6 +4229,10 @@
             {
               "vote": "352307",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "311945",
+              "name": "NON VOTERS"
             }
           ],
           "name": "BOJONEGORO"
@@ -3266,6 +4246,10 @@
             {
               "vote": "373199",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "288063",
+              "name": "NON VOTERS"
             }
           ],
           "name": "TUBAN"
@@ -3279,6 +4263,10 @@
             {
               "vote": "342249",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "371127",
+              "name": "NON VOTERS"
             }
           ],
           "name": "LAMONGAN"
@@ -3292,6 +4280,10 @@
             {
               "vote": "312496",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "242982",
+              "name": "NON VOTERS"
             }
           ],
           "name": "GRESIK"
@@ -3305,6 +4297,10 @@
             {
               "vote": "149258",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "169168",
+              "name": "NON VOTERS"
             }
           ],
           "name": "BANGKALAN"
@@ -3318,6 +4314,10 @@
             {
               "vote": "162785",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "167922",
+              "name": "NON VOTERS"
             }
           ],
           "name": "SAMPANG"
@@ -3331,6 +4331,10 @@
             {
               "vote": "135178",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "166898",
+              "name": "NON VOTERS"
             }
           ],
           "name": "PAMEKASAN"
@@ -3344,6 +4348,10 @@
             {
               "vote": "245410",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "318159",
+              "name": "NON VOTERS"
             }
           ],
           "name": "SUMENEP"
@@ -3357,6 +4365,10 @@
             {
               "vote": "100492",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "49334",
+              "name": "NON VOTERS"
             }
           ],
           "name": "KOTA KEDIRI"
@@ -3370,6 +4382,10 @@
             {
               "vote": "54599",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "24056",
+              "name": "NON VOTERS"
             }
           ],
           "name": "KOTA BLITAR"
@@ -3383,6 +4399,10 @@
             {
               "vote": "270971",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "158147",
+              "name": "NON VOTERS"
             }
           ],
           "name": "KOTA MALANG"
@@ -3396,6 +4416,10 @@
             {
               "vote": "58149",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "37039",
+              "name": "NON VOTERS"
             }
           ],
           "name": "KOTA PROBOLINGGO"
@@ -3409,6 +4433,10 @@
             {
               "vote": "43896",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "38979",
+              "name": "NON VOTERS"
             }
           ],
           "name": "KOTA PASURUAN"
@@ -3422,6 +4450,10 @@
             {
               "vote": "41504",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "20318",
+              "name": "NON VOTERS"
             }
           ],
           "name": "KOTA MOJOKERTO"
@@ -3435,6 +4467,10 @@
             {
               "vote": "65059",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "38300",
+              "name": "NON VOTERS"
             }
           ],
           "name": "KOTA MADIUN"
@@ -3448,6 +4484,10 @@
             {
               "vote": "892123",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "626591",
+              "name": "NON VOTERS"
             }
           ],
           "name": "KOTA SURABAYA"
@@ -3461,6 +4501,10 @@
             {
               "vote": "73055",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "27051",
+              "name": "NON VOTERS"
             }
           ],
           "name": "KOTA BATU"
@@ -3479,6 +4523,10 @@
             {
               "vote": "245581",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "310045",
+              "name": "NON VOTERS"
             }
           ],
           "name": "PANDEGLANG"
@@ -3492,6 +4540,10 @@
             {
               "vote": "290868",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "285807",
+              "name": "NON VOTERS"
             }
           ],
           "name": "LEBAK"
@@ -3505,6 +4557,10 @@
             {
               "vote": "606456",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "627748",
+              "name": "NON VOTERS"
             }
           ],
           "name": "TANGERANG"
@@ -3518,6 +4574,10 @@
             {
               "vote": "266663",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "358682",
+              "name": "NON VOTERS"
             }
           ],
           "name": "SERANG"
@@ -3531,6 +4591,10 @@
             {
               "vote": "425345",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "333947",
+              "name": "NON VOTERS"
             }
           ],
           "name": "KOTA TANGERANG"
@@ -3544,6 +4608,10 @@
             {
               "vote": "81908",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "63568",
+              "name": "NON VOTERS"
             }
           ],
           "name": "KOTA CILEGON"
@@ -3557,6 +4625,10 @@
             {
               "vote": "122022",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "151283",
+              "name": "NON VOTERS"
             }
           ],
           "name": "KOTA SERANG"
@@ -3570,6 +4642,10 @@
             {
               "vote": "359788",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "263217",
+              "name": "NON VOTERS"
             }
           ],
           "name": "KOTA TANGERANG SELATAN"
@@ -3588,6 +4664,10 @@
             {
               "vote": "104801",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "64653",
+              "name": "NON VOTERS"
             }
           ],
           "name": "JEMBRANA"
@@ -3601,6 +4681,10 @@
             {
               "vote": "210896",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "60190",
+              "name": "NON VOTERS"
             }
           ],
           "name": "TABANAN"
@@ -3614,6 +4698,10 @@
             {
               "vote": "189217",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "78925",
+              "name": "NON VOTERS"
             }
           ],
           "name": "BADUNG"
@@ -3627,6 +4715,10 @@
             {
               "vote": "223125",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "72038",
+              "name": "NON VOTERS"
             }
           ],
           "name": "GIANYAR"
@@ -3640,6 +4732,10 @@
             {
               "vote": "70831",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "46972",
+              "name": "NON VOTERS"
             }
           ],
           "name": "KLUNGKUNG"
@@ -3653,6 +4749,10 @@
             {
               "vote": "102528",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "40897",
+              "name": "NON VOTERS"
             }
           ],
           "name": "BANGLI"
@@ -3666,6 +4766,10 @@
             {
               "vote": "159864",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "139359",
+              "name": "NON VOTERS"
             }
           ],
           "name": "KARANGASEM"
@@ -3679,6 +4783,10 @@
             {
               "vote": "232228",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "202023",
+              "name": "NON VOTERS"
             }
           ],
           "name": "BULELENG"
@@ -3692,6 +4800,10 @@
             {
               "vote": "241620",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "87874",
+              "name": "NON VOTERS"
             }
           ],
           "name": "KOTA DENPASAR"
@@ -3710,6 +4822,10 @@
             {
               "vote": "79129",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "131333",
+              "name": "NON VOTERS"
             }
           ],
           "name": "LOMBOK BARAT"
@@ -3723,6 +4839,10 @@
             {
               "vote": "129040",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "232291",
+              "name": "NON VOTERS"
             }
           ],
           "name": "LOMBOK TENGAH"
@@ -3736,6 +4856,10 @@
             {
               "vote": "155595",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "205070",
+              "name": "NON VOTERS"
             }
           ],
           "name": "LOMBOK TIMUR"
@@ -3749,6 +4873,10 @@
             {
               "vote": "85539",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "85431",
+              "name": "NON VOTERS"
             }
           ],
           "name": "SUMBAWA"
@@ -3762,6 +4890,10 @@
             {
               "vote": "36005",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "36492",
+              "name": "NON VOTERS"
             }
           ],
           "name": "DOMPU"
@@ -3775,6 +4907,10 @@
             {
               "vote": "67336",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "119605",
+              "name": "NON VOTERS"
             }
           ],
           "name": "BIMA"
@@ -3788,6 +4924,10 @@
             {
               "vote": "22185",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "24771",
+              "name": "NON VOTERS"
             }
           ],
           "name": "SUMBAWA BARAT"
@@ -3801,6 +4941,10 @@
             {
               "vote": "71647",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "76831",
+              "name": "NON VOTERS"
             }
           ],
           "name": "KOTA MATARAM"
@@ -3814,6 +4958,10 @@
             {
               "vote": "18916",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "25540",
+              "name": "NON VOTERS"
             }
           ],
           "name": "KOTA BIMA"
@@ -3827,6 +4975,10 @@
             {
               "vote": "35846",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "39899",
+              "name": "NON VOTERS"
             }
           ],
           "name": "LOMBOK UTARA"
@@ -3845,6 +4997,10 @@
             {
               "vote": "71596",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "50696",
+              "name": "NON VOTERS"
             }
           ],
           "name": "KUPANG"
@@ -3858,6 +5014,10 @@
             {
               "vote": "102401",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "87816",
+              "name": "NON VOTERS"
             }
           ],
           "name": "TIMOR TENGAH SELATAN"
@@ -3871,6 +5031,10 @@
             {
               "vote": "63390",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "49830",
+              "name": "NON VOTERS"
             }
           ],
           "name": "TIMOR TENGAH UTARA"
@@ -3884,6 +5048,10 @@
             {
               "vote": "82988",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "98362",
+              "name": "NON VOTERS"
             }
           ],
           "name": "BELU"
@@ -3897,6 +5065,10 @@
             {
               "vote": "51958",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "24891",
+              "name": "NON VOTERS"
             }
           ],
           "name": "ALOR"
@@ -3910,6 +5082,10 @@
             {
               "vote": "86450",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "42222",
+              "name": "NON VOTERS"
             }
           ],
           "name": "FLORES TIMUR"
@@ -3923,6 +5099,10 @@
             {
               "vote": "108911",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "62549",
+              "name": "NON VOTERS"
             }
           ],
           "name": "SIKKA"
@@ -3936,6 +5116,10 @@
             {
               "vote": "93411",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "38217",
+              "name": "NON VOTERS"
             }
           ],
           "name": "ENDE"
@@ -3949,6 +5133,10 @@
             {
               "vote": "45560",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "23653",
+              "name": "NON VOTERS"
             }
           ],
           "name": "NGADA"
@@ -3962,6 +5150,10 @@
             {
               "vote": "97352",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "59208",
+              "name": "NON VOTERS"
             }
           ],
           "name": "MANGGARAI"
@@ -3975,6 +5167,10 @@
             {
               "vote": "74902",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "47842",
+              "name": "NON VOTERS"
             }
           ],
           "name": "SUMBA TIMUR"
@@ -3988,6 +5184,10 @@
             {
               "vote": "32124",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "27921",
+              "name": "NON VOTERS"
             }
           ],
           "name": "SUMBA BARAT"
@@ -4001,6 +5201,10 @@
             {
               "vote": "39459",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "17587",
+              "name": "NON VOTERS"
             }
           ],
           "name": "LEMBATA"
@@ -4014,6 +5218,10 @@
             {
               "vote": "44482",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "30286",
+              "name": "NON VOTERS"
             }
           ],
           "name": "ROTE NDAO"
@@ -4027,6 +5235,10 @@
             {
               "vote": "81816",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "32931",
+              "name": "NON VOTERS"
             }
           ],
           "name": "MANGGARAI BARAT"
@@ -4040,6 +5252,10 @@
             {
               "vote": "56426",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "20617",
+              "name": "NON VOTERS"
             }
           ],
           "name": "NAGEKEO"
@@ -4053,6 +5269,10 @@
             {
               "vote": "21568",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "12221",
+              "name": "NON VOTERS"
             }
           ],
           "name": "SUMBA TENGAH"
@@ -4066,6 +5286,10 @@
             {
               "vote": "119178",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "45002",
+              "name": "NON VOTERS"
             }
           ],
           "name": "SUMBA BARAT DAYA"
@@ -4079,6 +5303,10 @@
             {
               "vote": "107274",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "84084",
+              "name": "NON VOTERS"
             }
           ],
           "name": "KOTA KUPANG"
@@ -4092,6 +5320,10 @@
             {
               "vote": "82233",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "59473",
+              "name": "NON VOTERS"
             }
           ],
           "name": "MANGGARAI TIMUR"
@@ -4105,6 +5337,10 @@
             {
               "vote": "24597",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "12246",
+              "name": "NON VOTERS"
             }
           ],
           "name": "SABU RAIJUA"
@@ -4123,6 +5359,10 @@
             {
               "vote": "155003",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "145583",
+              "name": "NON VOTERS"
             }
           ],
           "name": "SAMBAS"
@@ -4136,6 +5376,10 @@
             {
               "vote": "49847",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "58779",
+              "name": "NON VOTERS"
             }
           ],
           "name": "PONTIANAK"
@@ -4149,6 +5393,10 @@
             {
               "vote": "191220",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "55605",
+              "name": "NON VOTERS"
             }
           ],
           "name": "SANGGAU"
@@ -4162,6 +5410,10 @@
             {
               "vote": "150144",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "106840",
+              "name": "NON VOTERS"
             }
           ],
           "name": "KETAPANG"
@@ -4175,6 +5427,10 @@
             {
               "vote": "170639",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "47414",
+              "name": "NON VOTERS"
             }
           ],
           "name": "SINTANG"
@@ -4188,6 +5444,10 @@
             {
               "vote": "88208",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "36013",
+              "name": "NON VOTERS"
             }
           ],
           "name": "KAPUAS HULU"
@@ -4201,6 +5461,10 @@
             {
               "vote": "91426",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "43668",
+              "name": "NON VOTERS"
             }
           ],
           "name": "BENGKAYANG"
@@ -4214,6 +5478,10 @@
             {
               "vote": "195610",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "24360",
+              "name": "NON VOTERS"
             }
           ],
           "name": "LANDAK"
@@ -4227,6 +5495,10 @@
             {
               "vote": "84313",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "30157",
+              "name": "NON VOTERS"
             }
           ],
           "name": "SEKADAU"
@@ -4240,6 +5512,10 @@
             {
               "vote": "81234",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "11743",
+              "name": "NON VOTERS"
             }
           ],
           "name": "MELAWI"
@@ -4253,6 +5529,10 @@
             {
               "vote": "20669",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "28476",
+              "name": "NON VOTERS"
             }
           ],
           "name": "KAYONG UTARA"
@@ -4266,6 +5546,10 @@
             {
               "vote": "126277",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "107804",
+              "name": "NON VOTERS"
             }
           ],
           "name": "KOTA PONTIANAK"
@@ -4279,6 +5563,10 @@
             {
               "vote": "55590",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "69274",
+              "name": "NON VOTERS"
             }
           ],
           "name": "KOTA SINGKAWANG"
@@ -4292,6 +5580,10 @@
             {
               "vote": "112866",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "135161",
+              "name": "NON VOTERS"
             }
           ],
           "name": "KUBU RAYA"
@@ -4310,6 +5602,10 @@
             {
               "vote": "65241",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "70709",
+              "name": "NON VOTERS"
             }
           ],
           "name": "KOTAWARINGIN BARAT"
@@ -4323,6 +5619,10 @@
             {
               "vote": "127678",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "124376",
+              "name": "NON VOTERS"
             }
           ],
           "name": "KOTAWARINGIN TIMUR"
@@ -4336,6 +5636,10 @@
             {
               "vote": "83402",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "107689",
+              "name": "NON VOTERS"
             }
           ],
           "name": "KAPUAS"
@@ -4349,6 +5653,10 @@
             {
               "vote": "37677",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "31482",
+              "name": "NON VOTERS"
             }
           ],
           "name": "BARITO SELATAN"
@@ -4362,6 +5670,10 @@
             {
               "vote": "40394",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "46270",
+              "name": "NON VOTERS"
             }
           ],
           "name": "BARITO UTARA"
@@ -4375,6 +5687,10 @@
             {
               "vote": "48245",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "43311",
+              "name": "NON VOTERS"
             }
           ],
           "name": "KATINGAN"
@@ -4388,6 +5704,10 @@
             {
               "vote": "51660",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "41947",
+              "name": "NON VOTERS"
             }
           ],
           "name": "SERUYAN"
@@ -4401,6 +5721,10 @@
             {
               "vote": "14199",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "16179",
+              "name": "NON VOTERS"
             }
           ],
           "name": "SUKAMARA"
@@ -4414,6 +5738,10 @@
             {
               "vote": "23889",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "16634",
+              "name": "NON VOTERS"
             }
           ],
           "name": "LAMANDAU"
@@ -4427,6 +5755,10 @@
             {
               "vote": "41452",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "32317",
+              "name": "NON VOTERS"
             }
           ],
           "name": "GUNUNG MAS"
@@ -4440,6 +5772,10 @@
             {
               "vote": "36991",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "36192",
+              "name": "NON VOTERS"
             }
           ],
           "name": "PULANG PISAU"
@@ -4453,6 +5789,10 @@
             {
               "vote": "25468",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "31226",
+              "name": "NON VOTERS"
             }
           ],
           "name": "MURUNG RAYA"
@@ -4466,6 +5806,10 @@
             {
               "vote": "36052",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "21256",
+              "name": "NON VOTERS"
             }
           ],
           "name": "BARITO TIMUR"
@@ -4479,6 +5823,10 @@
             {
               "vote": "63851",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "35891",
+              "name": "NON VOTERS"
             }
           ],
           "name": "KOTA PALANGKARAYA"
@@ -4497,6 +5845,10 @@
             {
               "vote": "81892",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "79229",
+              "name": "NON VOTERS"
             }
           ],
           "name": "TANAH LAUT"
@@ -4510,6 +5862,10 @@
             {
               "vote": "88379",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "79790",
+              "name": "NON VOTERS"
             }
           ],
           "name": "KOTABARU"
@@ -4523,6 +5879,10 @@
             {
               "vote": "125116",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "136064",
+              "name": "NON VOTERS"
             }
           ],
           "name": "BANJAR"
@@ -4536,6 +5896,10 @@
             {
               "vote": "71968",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "73173",
+              "name": "NON VOTERS"
             }
           ],
           "name": "BARITO KUALA"
@@ -4549,6 +5913,10 @@
             {
               "vote": "37740",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "36536",
+              "name": "NON VOTERS"
             }
           ],
           "name": "TAPIN"
@@ -4562,6 +5930,10 @@
             {
               "vote": "52765",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "61056",
+              "name": "NON VOTERS"
             }
           ],
           "name": "HULU SUNGAI SELATAN"
@@ -4575,6 +5947,10 @@
             {
               "vote": "52007",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "55276",
+              "name": "NON VOTERS"
             }
           ],
           "name": "HULU SUNGAI TENGAH"
@@ -4588,6 +5964,10 @@
             {
               "vote": "43068",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "58297",
+              "name": "NON VOTERS"
             }
           ],
           "name": "HULU SUNGAI UTARA"
@@ -4601,6 +5981,10 @@
             {
               "vote": "50403",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "48630",
+              "name": "NON VOTERS"
             }
           ],
           "name": "TABALONG"
@@ -4614,6 +5998,10 @@
             {
               "vote": "93242",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "71081",
+              "name": "NON VOTERS"
             }
           ],
           "name": "TANAH BUMBU"
@@ -4627,6 +6015,10 @@
             {
               "vote": "32915",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "27224",
+              "name": "NON VOTERS"
             }
           ],
           "name": "BALANGAN"
@@ -4640,6 +6032,10 @@
             {
               "vote": "157062",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "171312",
+              "name": "NON VOTERS"
             }
           ],
           "name": "KOTA BANJARMASIN"
@@ -4653,6 +6049,10 @@
             {
               "vote": "53191",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "41079",
+              "name": "NON VOTERS"
             }
           ],
           "name": "KOTA BANJARBARU"
@@ -4671,6 +6071,10 @@
             {
               "vote": "65438",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "63965",
+              "name": "NON VOTERS"
             }
           ],
           "name": "PASER"
@@ -4684,6 +6088,10 @@
             {
               "vote": "207503",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "192343",
+              "name": "NON VOTERS"
             }
           ],
           "name": "KUTAI KARTANEGARA"
@@ -4697,6 +6105,10 @@
             {
               "vote": "66443",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "59536",
+              "name": "NON VOTERS"
             }
           ],
           "name": "BERAU"
@@ -4710,6 +6122,10 @@
             {
               "vote": "36410",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "31495",
+              "name": "NON VOTERS"
             }
           ],
           "name": "BULUNGAN"
@@ -4723,6 +6139,10 @@
             {
               "vote": "60395",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "56221",
+              "name": "NON VOTERS"
             }
           ],
           "name": "NUNUKAN"
@@ -4736,6 +6156,10 @@
             {
               "vote": "26753",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "16324",
+              "name": "NON VOTERS"
             }
           ],
           "name": "MALINAU"
@@ -4749,6 +6173,10 @@
             {
               "vote": "75625",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "44176",
+              "name": "NON VOTERS"
             }
           ],
           "name": "KUTAI BARAT"
@@ -4762,6 +6190,10 @@
             {
               "vote": "100346",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "130663",
+              "name": "NON VOTERS"
             }
           ],
           "name": "KUTAI TIMUR"
@@ -4775,6 +6207,10 @@
             {
               "vote": "42383",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "44532",
+              "name": "NON VOTERS"
             }
           ],
           "name": "PENAJAM PASER UTARA"
@@ -4788,6 +6224,10 @@
             {
               "vote": "177102",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "118772",
+              "name": "NON VOTERS"
             }
           ],
           "name": "KOTA BALIKPAPAN"
@@ -4801,6 +6241,10 @@
             {
               "vote": "216320",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "200685",
+              "name": "NON VOTERS"
             }
           ],
           "name": "KOTA SAMARINDA"
@@ -4814,6 +6258,10 @@
             {
               "vote": "57213",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "44752",
+              "name": "NON VOTERS"
             }
           ],
           "name": "KOTA TARAKAN"
@@ -4827,6 +6275,10 @@
             {
               "vote": "52112",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "35856",
+              "name": "NON VOTERS"
             }
           ],
           "name": "KOTA BONTANG"
@@ -4840,6 +6292,10 @@
             {
               "vote": "6113",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "8120",
+              "name": "NON VOTERS"
             }
           ],
           "name": "TANA TIDUNG"
@@ -4858,6 +6314,10 @@
             {
               "vote": "13864",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "15503",
+              "name": "NON VOTERS"
             }
           ],
           "name": "BOLAANG MONGONDOW TIMUR"
@@ -4871,6 +6331,10 @@
             {
               "vote": "14495",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "9122",
+              "name": "NON VOTERS"
             }
           ],
           "name": "BOLAANG MONGONDOW SELATAN"
@@ -4884,6 +6348,10 @@
             {
               "vote": "44370",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "50912",
+              "name": "NON VOTERS"
             }
           ],
           "name": "BOLAANG MONGONDOW"
@@ -4897,6 +6365,10 @@
             {
               "vote": "113149",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "71057",
+              "name": "NON VOTERS"
             }
           ],
           "name": "MINAHASA"
@@ -4910,6 +6382,10 @@
             {
               "vote": "46905",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "32613",
+              "name": "NON VOTERS"
             }
           ],
           "name": "KEPULAUAN SANGIHE"
@@ -4923,6 +6399,10 @@
             {
               "vote": "39962",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "17169",
+              "name": "NON VOTERS"
             }
           ],
           "name": "KEPULAUAN TALAUD"
@@ -4936,6 +6416,10 @@
             {
               "vote": "67508",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "47730",
+              "name": "NON VOTERS"
             }
           ],
           "name": "MINAHASA SELATAN"
@@ -4949,6 +6433,10 @@
             {
               "vote": "60620",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "36887",
+              "name": "NON VOTERS"
             }
           ],
           "name": "MINAHASA UTARA"
@@ -4962,6 +6450,10 @@
             {
               "vote": "31437",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "17318",
+              "name": "NON VOTERS"
             }
           ],
           "name": "MINAHASA TENGGARA"
@@ -4975,6 +6467,10 @@
             {
               "vote": "18012",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "15510",
+              "name": "NON VOTERS"
             }
           ],
           "name": "BOLAANG MONGONDOW UTARA"
@@ -4988,6 +6484,10 @@
             {
               "vote": "29077",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "12281",
+              "name": "NON VOTERS"
             }
           ],
           "name": "KEP SIAU TAGULANDANG BIARO"
@@ -5001,6 +6501,10 @@
             {
               "vote": "134572",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "122183",
+              "name": "NON VOTERS"
             }
           ],
           "name": "KOTA MANADO"
@@ -5014,6 +6518,10 @@
             {
               "vote": "60822",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "50152",
+              "name": "NON VOTERS"
             }
           ],
           "name": "KOTA BITUNG"
@@ -5027,6 +6535,10 @@
             {
               "vote": "31401",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "13343",
+              "name": "NON VOTERS"
             }
           ],
           "name": "KOTA TOMOHON"
@@ -5040,6 +6552,10 @@
             {
               "vote": "18359",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "30627",
+              "name": "NON VOTERS"
             }
           ],
           "name": "KOTA KOTAMOBAGU"
@@ -5058,6 +6574,10 @@
             {
               "vote": "50563",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "42439",
+              "name": "NON VOTERS"
             }
           ],
           "name": "SIGI"
@@ -5071,6 +6591,10 @@
             {
               "vote": "103276",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "72213",
+              "name": "NON VOTERS"
             }
           ],
           "name": "BANGGAI"
@@ -5084,6 +6608,10 @@
             {
               "vote": "63963",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "30742",
+              "name": "NON VOTERS"
             }
           ],
           "name": "POSO"
@@ -5097,6 +6625,10 @@
             {
               "vote": "79621",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "57909",
+              "name": "NON VOTERS"
             }
           ],
           "name": "DONGGALA"
@@ -5110,6 +6642,10 @@
             {
               "vote": "68959",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "53643",
+              "name": "NON VOTERS"
             }
           ],
           "name": "TOLITOLI"
@@ -5123,6 +6659,10 @@
             {
               "vote": "35339",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "26068",
+              "name": "NON VOTERS"
             }
           ],
           "name": "BUOL"
@@ -5136,6 +6676,10 @@
             {
               "vote": "73276",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "41332",
+              "name": "NON VOTERS"
             }
           ],
           "name": "MOROWALI"
@@ -5149,6 +6693,10 @@
             {
               "vote": "54019",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "26162",
+              "name": "NON VOTERS"
             }
           ],
           "name": "BANGGAI KEPULAUAN"
@@ -5162,6 +6710,10 @@
             {
               "vote": "118330",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "85840",
+              "name": "NON VOTERS"
             }
           ],
           "name": "PARIGI MOUTONG"
@@ -5175,6 +6727,10 @@
             {
               "vote": "38044",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "24571",
+              "name": "NON VOTERS"
             }
           ],
           "name": "TOJO UNA-UNA"
@@ -5188,6 +6744,10 @@
             {
               "vote": "81761",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "75567",
+              "name": "NON VOTERS"
             }
           ],
           "name": "KOTA PALU"
@@ -5206,6 +6766,10 @@
             {
               "vote": "83471",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "60412",
+              "name": "NON VOTERS"
             }
           ],
           "name": "TORAJA UTARA"
@@ -5219,6 +6783,10 @@
             {
               "vote": "37543",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "27002",
+              "name": "NON VOTERS"
             }
           ],
           "name": "KEPULAUAN SELAYAR"
@@ -5232,6 +6800,10 @@
             {
               "vote": "147572",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "134921",
+              "name": "NON VOTERS"
             }
           ],
           "name": "BULUKUMBA"
@@ -5245,6 +6817,10 @@
             {
               "vote": "49655",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "48542",
+              "name": "NON VOTERS"
             }
           ],
           "name": "BANTAENG"
@@ -5258,6 +6834,10 @@
             {
               "vote": "85031",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "120774",
+              "name": "NON VOTERS"
             }
           ],
           "name": "JENEPONTO"
@@ -5271,6 +6851,10 @@
             {
               "vote": "98476",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "57582",
+              "name": "NON VOTERS"
             }
           ],
           "name": "TAKALAR"
@@ -5284,6 +6868,10 @@
             {
               "vote": "241625",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "135754",
+              "name": "NON VOTERS"
             }
           ],
           "name": "GOWA"
@@ -5297,6 +6885,10 @@
             {
               "vote": "74275",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "59329",
+              "name": "NON VOTERS"
             }
           ],
           "name": "SINJAI"
@@ -5310,6 +6902,10 @@
             {
               "vote": "339766",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "166144",
+              "name": "NON VOTERS"
             }
           ],
           "name": "BONE"
@@ -5323,6 +6919,10 @@
             {
               "vote": "126719",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "75606",
+              "name": "NON VOTERS"
             }
           ],
           "name": "MAROS"
@@ -5336,6 +6936,10 @@
             {
               "vote": "116198",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "76556",
+              "name": "NON VOTERS"
             }
           ],
           "name": "PANGKAJENE DAN KEPULAUAN"
@@ -5349,6 +6953,10 @@
             {
               "vote": "79091",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "38871",
+              "name": "NON VOTERS"
             }
           ],
           "name": "BARRU"
@@ -5362,6 +6970,10 @@
             {
               "vote": "109559",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "53489",
+              "name": "NON VOTERS"
             }
           ],
           "name": "SOPPENG"
@@ -5375,6 +6987,10 @@
             {
               "vote": "174843",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "111136",
+              "name": "NON VOTERS"
             }
           ],
           "name": "WAJO"
@@ -5388,6 +7004,10 @@
             {
               "vote": "126540",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "67410",
+              "name": "NON VOTERS"
             }
           ],
           "name": "SIDENRENG RAPPANG"
@@ -5401,6 +7021,10 @@
             {
               "vote": "143482",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "89818",
+              "name": "NON VOTERS"
             }
           ],
           "name": "PINRANG"
@@ -5414,6 +7038,10 @@
             {
               "vote": "62410",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "48813",
+              "name": "NON VOTERS"
             }
           ],
           "name": "ENREKANG"
@@ -5427,6 +7055,10 @@
             {
               "vote": "131777",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "69299",
+              "name": "NON VOTERS"
             }
           ],
           "name": "LUWU"
@@ -5440,6 +7072,10 @@
             {
               "vote": "76632",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "52114",
+              "name": "NON VOTERS"
             }
           ],
           "name": "TANA TORAJA"
@@ -5453,6 +7089,10 @@
             {
               "vote": "101463",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "69411",
+              "name": "NON VOTERS"
             }
           ],
           "name": "LUWU UTARA"
@@ -5466,6 +7106,10 @@
             {
               "vote": "83832",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "64033",
+              "name": "NON VOTERS"
             }
           ],
           "name": "LUWU TIMUR"
@@ -5479,6 +7123,10 @@
             {
               "vote": "447353",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "371200",
+              "name": "NON VOTERS"
             }
           ],
           "name": "KOTA MAKASSAR"
@@ -5492,6 +7140,10 @@
             {
               "vote": "51211",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "29924",
+              "name": "NON VOTERS"
             }
           ],
           "name": "KOTA PARE PARE"
@@ -5505,6 +7157,10 @@
             {
               "vote": "48502",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "43688",
+              "name": "NON VOTERS"
             }
           ],
           "name": "KOTA PALOPO"
@@ -5523,6 +7179,10 @@
             {
               "vote": "92586",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "87965",
+              "name": "NON VOTERS"
             }
           ],
           "name": "KOLAKA"
@@ -5536,6 +7196,10 @@
             {
               "vote": "57538",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "53961",
+              "name": "NON VOTERS"
             }
           ],
           "name": "KONAWE"
@@ -5549,6 +7213,10 @@
             {
               "vote": "48430",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "105377",
+              "name": "NON VOTERS"
             }
           ],
           "name": "MUNA"
@@ -5562,6 +7230,10 @@
             {
               "vote": "69167",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "81585",
+              "name": "NON VOTERS"
             }
           ],
           "name": "BUTON"
@@ -5575,6 +7247,10 @@
             {
               "vote": "74151",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "58506",
+              "name": "NON VOTERS"
             }
           ],
           "name": "KONAWE SELATAN"
@@ -5588,6 +7264,10 @@
             {
               "vote": "41326",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "40953",
+              "name": "NON VOTERS"
             }
           ],
           "name": "BOMBANA"
@@ -5601,6 +7281,10 @@
             {
               "vote": "31229",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "34822",
+              "name": "NON VOTERS"
             }
           ],
           "name": "WAKATOBI"
@@ -5614,6 +7298,10 @@
             {
               "vote": "54028",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "37349",
+              "name": "NON VOTERS"
             }
           ],
           "name": "KOLAKA UTARA"
@@ -5627,6 +7315,10 @@
             {
               "vote": "18278",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "11504",
+              "name": "NON VOTERS"
             }
           ],
           "name": "KONAWE UTARA"
@@ -5640,6 +7332,10 @@
             {
               "vote": "17139",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "14924",
+              "name": "NON VOTERS"
             }
           ],
           "name": "BUTON UTARA"
@@ -5653,6 +7349,10 @@
             {
               "vote": "80645",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "90330",
+              "name": "NON VOTERS"
             }
           ],
           "name": "KOTA KENDARI"
@@ -5666,6 +7366,10 @@
             {
               "vote": "37700",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "48105",
+              "name": "NON VOTERS"
             }
           ],
           "name": "KOTA BAU BAU"
@@ -5684,6 +7388,10 @@
             {
               "vote": "67189",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "70710",
+              "name": "NON VOTERS"
             }
           ],
           "name": "GORONTALO"
@@ -5697,6 +7405,10 @@
             {
               "vote": "33179",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "20843",
+              "name": "NON VOTERS"
             }
           ],
           "name": "BOALEMO"
@@ -5710,6 +7422,10 @@
             {
               "vote": "30674",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "20388",
+              "name": "NON VOTERS"
             }
           ],
           "name": "BONE BOLANGO"
@@ -5723,6 +7439,10 @@
             {
               "vote": "32126",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "25677",
+              "name": "NON VOTERS"
             }
           ],
           "name": "PAHUWATO"
@@ -5736,6 +7456,10 @@
             {
               "vote": "20161",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "21907",
+              "name": "NON VOTERS"
             }
           ],
           "name": "GORONTALO UTARA"
@@ -5749,6 +7473,10 @@
             {
               "vote": "38168",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "34693",
+              "name": "NON VOTERS"
             }
           ],
           "name": "KOTA GORONTALO"
@@ -5767,6 +7495,10 @@
             {
               "vote": "50833",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "36435",
+              "name": "NON VOTERS"
             }
           ],
           "name": "MAMUJU UTARA"
@@ -5780,6 +7512,10 @@
             {
               "vote": "138250",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "68594",
+              "name": "NON VOTERS"
             }
           ],
           "name": "MAMUJU"
@@ -5793,6 +7529,10 @@
             {
               "vote": "67656",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "32883",
+              "name": "NON VOTERS"
             }
           ],
           "name": "MAMASA"
@@ -5806,6 +7546,10 @@
             {
               "vote": "136429",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "102420",
+              "name": "NON VOTERS"
             }
           ],
           "name": "POLEWALI MANDAR"
@@ -5819,6 +7563,10 @@
             {
               "vote": "62853",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "25730",
+              "name": "NON VOTERS"
             }
           ],
           "name": "MAJENE"
@@ -5837,6 +7585,10 @@
             {
               "vote": "24720",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "11724",
+              "name": "NON VOTERS"
             }
           ],
           "name": "MALUKU BARAT DAYA"
@@ -5850,6 +7602,10 @@
             {
               "vote": "22952",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "4164",
+              "name": "NON VOTERS"
             }
           ],
           "name": "BURU SELATAN"
@@ -5863,6 +7619,10 @@
             {
               "vote": "88144",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "90709",
+              "name": "NON VOTERS"
             }
           ],
           "name": "MALUKU TENGAH"
@@ -5876,6 +7636,10 @@
             {
               "vote": "33929",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "17061",
+              "name": "NON VOTERS"
             }
           ],
           "name": "MALUKU TENGGARA"
@@ -5889,6 +7653,10 @@
             {
               "vote": "36029",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "23054",
+              "name": "NON VOTERS"
             }
           ],
           "name": "MALUKU TENGGARA BARAT"
@@ -5902,6 +7670,10 @@
             {
               "vote": "23164",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "20059",
+              "name": "NON VOTERS"
             }
           ],
           "name": "BURU"
@@ -5915,6 +7687,10 @@
             {
               "vote": "27943",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "12744",
+              "name": "NON VOTERS"
             }
           ],
           "name": "SERAM BAGIAN TIMUR"
@@ -5928,6 +7704,10 @@
             {
               "vote": "43068",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "40789",
+              "name": "NON VOTERS"
             }
           ],
           "name": "SERAM BAGIAN BARAT"
@@ -5941,6 +7721,10 @@
             {
               "vote": "29898",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "18950",
+              "name": "NON VOTERS"
             }
           ],
           "name": "KEPULAUAN ARU"
@@ -5954,6 +7738,10 @@
             {
               "vote": "100744",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "88867",
+              "name": "NON VOTERS"
             }
           ],
           "name": "KOTA AMBON"
@@ -5967,6 +7755,10 @@
             {
               "vote": "12449",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "11154",
+              "name": "NON VOTERS"
             }
           ],
           "name": "KOTA TUAL"
@@ -5985,6 +7777,10 @@
             {
               "vote": "11403",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "9411",
+              "name": "NON VOTERS"
             }
           ],
           "name": "PULAU MOROTAI"
@@ -5998,6 +7794,10 @@
             {
               "vote": "28790",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "20204",
+              "name": "NON VOTERS"
             }
           ],
           "name": "HALMAHERA BARAT"
@@ -6011,6 +7811,10 @@
             {
               "vote": "13141",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "8692",
+              "name": "NON VOTERS"
             }
           ],
           "name": "HALMAHERA TENGAH"
@@ -6024,6 +7828,10 @@
             {
               "vote": "49188",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "44169",
+              "name": "NON VOTERS"
             }
           ],
           "name": "HALMAHERA UTARA"
@@ -6037,6 +7845,10 @@
             {
               "vote": "48196",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "49539",
+              "name": "NON VOTERS"
             }
           ],
           "name": "HALMAHERA SELATAN"
@@ -6050,6 +7862,10 @@
             {
               "vote": "31778",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "31172",
+              "name": "NON VOTERS"
             }
           ],
           "name": "KEPULAUAN SULA"
@@ -6063,6 +7879,10 @@
             {
               "vote": "20152",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "23006",
+              "name": "NON VOTERS"
             }
           ],
           "name": "HALMAHERA TIMUR"
@@ -6076,6 +7896,10 @@
             {
               "vote": "30113",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "69651",
+              "name": "NON VOTERS"
             }
           ],
           "name": "KOTA TERNATE"
@@ -6089,6 +7913,10 @@
             {
               "vote": "23840",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "21016",
+              "name": "NON VOTERS"
             }
           ],
           "name": "KOTA TIDORE KEPULAUAN"
@@ -6107,6 +7935,10 @@
             {
               "vote": "56184",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "0",
+              "name": "NON VOTERS"
             }
           ],
           "name": "INTAN JAYA"
@@ -6120,6 +7952,10 @@
             {
               "vote": "41970",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "7",
+              "name": "NON VOTERS"
             }
           ],
           "name": "DEIYAI"
@@ -6133,6 +7969,10 @@
             {
               "vote": "134800",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "5",
+              "name": "NON VOTERS"
             }
           ],
           "name": "TOLIKARA"
@@ -6146,6 +7986,10 @@
             {
               "vote": "18302",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "3065",
+              "name": "NON VOTERS"
             }
           ],
           "name": "WAROPEN"
@@ -6159,6 +8003,10 @@
             {
               "vote": "22322",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "11365",
+              "name": "NON VOTERS"
             }
           ],
           "name": "BOVEN DIGOEL"
@@ -6172,6 +8020,10 @@
             {
               "vote": "35546",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "19719",
+              "name": "NON VOTERS"
             }
           ],
           "name": "MAPPI"
@@ -6185,6 +8037,10 @@
             {
               "vote": "52957",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "5699",
+              "name": "NON VOTERS"
             }
           ],
           "name": "ASMAT"
@@ -6198,6 +8054,10 @@
             {
               "vote": "9421",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "3065",
+              "name": "NON VOTERS"
             }
           ],
           "name": "SUPIORI"
@@ -6211,6 +8071,10 @@
             {
               "vote": "19089",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "1758",
+              "name": "NON VOTERS"
             }
           ],
           "name": "MAMBERAMO RAYA"
@@ -6224,6 +8088,10 @@
             {
               "vote": "96780",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "162661",
+              "name": "NON VOTERS"
             }
           ],
           "name": "KOTA JAYAPURA"
@@ -6237,6 +8105,10 @@
             {
               "vote": "5539",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "-220",
+              "name": "NON VOTERS"
             }
           ],
           "name": "MAMBERAMO TENGAH"
@@ -6250,6 +8122,10 @@
             {
               "vote": "50050",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "1",
+              "name": "NON VOTERS"
             }
           ],
           "name": "YALIMO"
@@ -6263,6 +8139,10 @@
             {
               "vote": "62609",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "0",
+              "name": "NON VOTERS"
             }
           ],
           "name": "LANNY JAYA"
@@ -6276,6 +8156,10 @@
             {
               "vote": "106784",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "0",
+              "name": "NON VOTERS"
             }
           ],
           "name": "NDUGA"
@@ -6289,6 +8173,10 @@
             {
               "vote": "149096",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "2",
+              "name": "NON VOTERS"
             }
           ],
           "name": "PUNCAK"
@@ -6302,6 +8190,10 @@
             {
               "vote": "89536",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "18022",
+              "name": "NON VOTERS"
             }
           ],
           "name": "DOGIYAI"
@@ -6315,6 +8207,10 @@
             {
               "vote": "49784",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "50488",
+              "name": "NON VOTERS"
             }
           ],
           "name": "MERAUKE"
@@ -6328,6 +8224,10 @@
             {
               "vote": "177483",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "1004",
+              "name": "NON VOTERS"
             }
           ],
           "name": "JAYAWIJAYA"
@@ -6341,6 +8241,10 @@
             {
               "vote": "61340",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "24810",
+              "name": "NON VOTERS"
             }
           ],
           "name": "JAYAPURA"
@@ -6354,6 +8258,10 @@
             {
               "vote": "90541",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "9417",
+              "name": "NON VOTERS"
             }
           ],
           "name": "NABIRE"
@@ -6367,6 +8275,10 @@
             {
               "vote": "65312",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "12449",
+              "name": "NON VOTERS"
             }
           ],
           "name": "KEPULAUAN YAPEN"
@@ -6380,6 +8292,10 @@
             {
               "vote": "47371",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "36297",
+              "name": "NON VOTERS"
             }
           ],
           "name": "BIAK NUMFOR"
@@ -6393,6 +8309,10 @@
             {
               "vote": "87122",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "0",
+              "name": "NON VOTERS"
             }
           ],
           "name": "PUNCAK JAYA"
@@ -6406,6 +8326,10 @@
             {
               "vote": "82970",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "0",
+              "name": "NON VOTERS"
             }
           ],
           "name": "PANIAI"
@@ -6419,6 +8343,10 @@
             {
               "vote": "124583",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "40201",
+              "name": "NON VOTERS"
             }
           ],
           "name": "MIMIKA"
@@ -6432,6 +8360,10 @@
             {
               "vote": "13095",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "8967",
+              "name": "NON VOTERS"
             }
           ],
           "name": "SARMI"
@@ -6445,6 +8377,10 @@
             {
               "vote": "16684",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "15376",
+              "name": "NON VOTERS"
             }
           ],
           "name": "KEEROM"
@@ -6458,6 +8394,10 @@
             {
               "vote": "84149",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "31",
+              "name": "NON VOTERS"
             }
           ],
           "name": "PEGUNUNGAN BINTANG"
@@ -6471,6 +8411,10 @@
             {
               "vote": "175316",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "2370",
+              "name": "NON VOTERS"
             }
           ],
           "name": "YAHUKIMO"
@@ -6489,6 +8433,10 @@
             {
               "vote": "20882",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "66",
+              "name": "NON VOTERS"
             }
           ],
           "name": "MAYBRAT"
@@ -6502,6 +8450,10 @@
             {
               "vote": "15274",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "1557",
+              "name": "NON VOTERS"
             }
           ],
           "name": "TAMBRAUW"
@@ -6515,6 +8467,10 @@
             {
               "vote": "33514",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "29515",
+              "name": "NON VOTERS"
             }
           ],
           "name": "SORONG"
@@ -6528,6 +8484,10 @@
             {
               "vote": "101375",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "30401",
+              "name": "NON VOTERS"
             }
           ],
           "name": "MANOKWARI"
@@ -6541,6 +8501,10 @@
             {
               "vote": "21129",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "15239",
+              "name": "NON VOTERS"
             }
           ],
           "name": "FAKFAK"
@@ -6554,6 +8518,10 @@
             {
               "vote": "25590",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "932",
+              "name": "NON VOTERS"
             }
           ],
           "name": "SORONG SELATAN"
@@ -6567,6 +8535,10 @@
             {
               "vote": "19626",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "10564",
+              "name": "NON VOTERS"
             }
           ],
           "name": "RAJA AMPAT"
@@ -6580,6 +8552,10 @@
             {
               "vote": "28499",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "9338",
+              "name": "NON VOTERS"
             }
           ],
           "name": "TELUK BINTUNI"
@@ -6593,6 +8569,10 @@
             {
               "vote": "14104",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "5176",
+              "name": "NON VOTERS"
             }
           ],
           "name": "TELUK WONDAMA"
@@ -6606,6 +8586,10 @@
             {
               "vote": "15227",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "14020",
+              "name": "NON VOTERS"
             }
           ],
           "name": "KAIMANA"
@@ -6619,6 +8603,10 @@
             {
               "vote": "65159",
               "name": "JOKOWI"
+            },
+            {
+              "vote": "65645",
+              "name": "NON VOTERS"
             }
           ],
           "name": "KOTA SORONG"
@@ -6627,5 +8615,5 @@
       "name": "PAPUA BARAT"
     }
   ],
-  "name": "National"
+  "name": "INDONESIA"
 }
